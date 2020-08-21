@@ -188,6 +188,7 @@ ul.list li:before {
 }
 
 .skillbox-logo {
+    display: block;
     margin-top: 50px;
     margin-bottom: 50px;
     font-family: 'Graphik LCG';
@@ -263,6 +264,7 @@ ul.list li:before {
 .module-paragraph {
     margin-bottom: 15px;
     font-size: 16px;
+    list-style-type: none;
 }
 
 .btn-center {
